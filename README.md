@@ -11,7 +11,7 @@ _Learning by building AI & Machine Learning projects_
 🧠 Exploring **AI, Machine Learning & Data Science**  
 🧮 Strengthening my foundation in **math, algorithms, and Python**  
 🤖 Experimenting with **Kaggle notebooks** and small ML ideas  
-🌍 Based in Berlin — focused on learning by building  
+🌍 Based in Berlin, focused on learning by building  
 
 ---
 
