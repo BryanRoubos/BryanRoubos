@@ -7,7 +7,7 @@ _Learning by building AI & Machine Learning projects_
 
 ### 👋 Hi, I’m Bryan
 
-🎓 Computer Science student @ Open Universiteit  
+🎓 Computer Science student @ Open University Amsterdam  
 🧠 Exploring **AI, Machine Learning & Data Science**  
 🧮 Strengthening my foundation in **math, algorithms, and Python**  
 🤖 Experimenting with **Kaggle notebooks** and small ML ideas  
