@@ -27,8 +27,5 @@ Check out my pinned repositories below 👇
 - 💼 Seeking: Software Engineering Internship (Berlin/Remote)
 - 🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/bryan-roubos/)
 
----
-
-💡 Building in public | Open to opportunities
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=FF5F09&height=150&section=footer)
