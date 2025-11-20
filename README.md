@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=FF5F09&height=150&section=header&fontSize=90)
-
 # Hi, I'm Bryan 👋
 
-Software Engineer | HBO Software Engineering | Next.js · TypeScript · React · Exploring ML/AI
+**Software Engineer | HBO Software Engineering | Next.js · TypeScript · React · Exploring ML/AI**
+
+---
 
 ## 🚀 What I Build
 
@@ -11,17 +11,23 @@ Production-ready web applications with modern JavaScript/TypeScript:
 - **Backend:** Node.js, Sanity CMS, RESTful APIs
 - **Currently exploring:** Python, AI/ML applications
 
+---
+
 ## 💼 Experience
 
 - **Board Member @ Groupvibe** → Scaled to 37,000+ users across 60+ cities in 15 countries
 - **Founder @ WebSneller** → Delivered full-stack client projects with Next.js stack
 - **Volunteer @ ZSAlliance** → Built community websites and digital experiences
 
+---
+
 ## 🎯 Currently
 
 - Studying Software Engineering at HU Utrecht
 - Learning ML fundamentals through hands-on projects
 - Exploring the intersection of web development and AI
+
+---
 
 ## 🛠️ Tech Stack
 ```
@@ -32,6 +38,8 @@ Tools:         Git, Vercel, VS Code
 Learning:      NumPy, Pandas, Scikit-learn, TensorFlow
 ```
 
+---
+
 ## 📫 Connect With Me
 
 - 💼 [LinkedIn](https://linkedin.com/in/bryanroubos)
@@ -41,6 +49,3 @@ Learning:      NumPy, Pandas, Scikit-learn, TensorFlow
 ---
 
 *"The best way to learn is by building things people actually use."*
-
-
-![footer](https://capsule-render.vercel.app/api?type=wave&color=FF5F09&height=150&section=footer)
