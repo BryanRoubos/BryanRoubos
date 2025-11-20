@@ -1,31 +1,46 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=FF5F09&height=150&section=header&fontSize=90)
 
-# 👋 Hi, I'm Bryan
+# Hi, I'm Bryan 👋
 
-Full-Stack Developer | CS Student | Building toward ML Engineering
+Software Engineer | HBO Software Engineering | Next.js · TypeScript · React · Exploring ML/AI
 
 ## 🚀 What I Build
 
-**Currently:**
-- Production web apps with Next.js, TypeScript, React
-- Board member @ Groupvibe (37k+ users, 60+ cities)
-- Learning ML fundamentals through projects
+Production-ready web applications with modern JavaScript/TypeScript:
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Node.js, Sanity CMS, RESTful APIs
+- **Currently exploring:** Python, AI/ML applications
 
-**Tech Stack:**
-- Frontend: Next.js, React, TypeScript, Tailwind
-- Backend: Node.js, Sanity CMS
-- Learning: Python, NumPy, Pandas, Scikit-learn
+## 💼 Experience
 
-## 📌 Featured Work
-
-Check out my pinned repositories below 👇
+- **Board Member @ Groupvibe** → Scaled to 37,000+ users across 60+ cities in 15 countries
+- **Founder @ WebSneller** → Delivered full-stack client projects with Next.js stack
+- **Volunteer @ ZSAlliance** → Built community websites and digital experiences
 
 ## 🎯 Currently
 
-- 📚 CS @ Open University Amsterdam
-- 🧠 Daily ML practice
-- 💼 Seeking: Software Engineering Internship (Berlin/Remote)
-- 🔗 Let's connect: [LinkedIn](https://www.linkedin.com/in/bryan-roubos/)
+- Studying Software Engineering at HU Utrecht
+- Learning ML fundamentals through hands-on projects
+- Exploring the intersection of web development and AI
+
+## 🛠️ Tech Stack
+```
+Languages:     TypeScript, JavaScript, Python, Java
+Frontend:      Next.js, React, Tailwind CSS, HTML/CSS
+Backend:       Node.js, Sanity CMS
+Tools:         Git, Vercel, VS Code
+Learning:      NumPy, Pandas, Scikit-learn, TensorFlow
+```
+
+## 📫 Connect With Me
+
+- 💼 [LinkedIn](https://linkedin.com/in/bryanroubos)
+- 📍 Based in the Netherlands
+- 💬 Always happy to chat about web development, AI/ML, or interesting projects
+
+---
+
+*"The best way to learn is by building things people actually use."*
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=FF5F09&height=150&section=footer)
