@@ -1,6 +1,6 @@
 # Hi, I'm Bryan 👋
 
-**Software Engineer | HBO Software Engineering | Next.js · TypeScript · React · Exploring ML/AI**
+**HBO Software Engineering | Next.js · TypeScript · React · Exploring ML/AI**
 
 ---
 
