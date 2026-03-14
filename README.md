@@ -1,51 +1,36 @@
 # Hi, I'm Bryan 👋
 
-**HBO Software Engineering | Next.js · TypeScript · React · Exploring ML/AI**
+Software engineering student at HU Utrecht. 
+I build production web apps and I'm learning how to apply ML/AI to real products.
 
 ---
 
-## 🚀 What I Build
+## What I've shipped
 
-Production-ready web applications with modern JavaScript/TypeScript:
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-- **Backend:** Node.js, Sanity CMS, RESTful APIs
-- **Currently exploring:** Python, AI/ML applications
+**[DesignAudit](https://github.com/BryanRoubos/designaudit)** — Web accessibility auditor. Paste a URL, get WCAG scores, AI-powered plain-English fix suggestions, and a shareable permalink. Built with Next.js, Puppeteer, axe-core, Gemini, and Supabase.
 
----
-
-## 💼 Experience
-
-- **Board Member @ Groupvibe** → Scaled to 37,000+ users across 60+ cities in 15 countries
-- **Founder @ WebSneller** → Delivered full-stack client projects with Next.js stack
-- **Volunteer @ ZSAlliance** → Built community websites and digital experiences
+**[Groupvibe](https://groupvibe.com)** — Board member at a social platform that scaled to 39,500+ users across 40 cities in 15 countries.
 
 ---
 
-## 🎯 Currently
+## Stack
 
-- Studying Software Engineering at HU Utrecht
-- Learning ML fundamentals through hands-on projects
-- Exploring the intersection of web development and AI
-
----
-
-## 🛠️ Tech Stack
 ```
-Languages:     TypeScript, JavaScript, Python, Java
-Frontend:      Next.js, React, Tailwind CSS, HTML/CSS
-Backend:       Node.js, Sanity CMS
-Tools:         Git, Vercel, VS Code
-Learning:      NumPy, Pandas, Scikit-learn, TensorFlow
+Frontend:   Next.js · React · TypeScript · Tailwind CSS
+Backend:    Node.js · Sanity CMS · REST APIs
+Database:   Supabase · Postgres
+Tools:      Git · Vercel · Puppeteer
+Learning:   Python · NumPy · Pandas · Scikit-learn
 ```
 
 ---
 
-## 📫 Connect With Me
+## Currently
 
-- 💼 [LinkedIn](https://linkedin.com/in/bryanroubos)
-- 📍 Based in the Netherlands
-- 💬 Always happy to chat about web development, AI/ML, or interesting projects
+- Studying Software Engineering at HU Utrecht (GPA 8.2 on propedeuse)
+- Building projects at the intersection of web engineering and AI
+- Working through ML fundamentals — linear algebra, probability, core algorithms
 
 ---
 
-*"The best way to learn is by building things people actually use."*
+📍 Netherlands · [LinkedIn](https://linkedin.com/in/bryanroubos)
