@@ -1,14 +1,14 @@
 # Hi, I'm Bryan 👋
 
-Software engineering student at HU Utrecht. I build production web apps and I'm learning how to apply ML/AI to real products.
+Software engineering student at HU Utrecht. I build production web apps and I'm learning how to apply AI/ML to real engineering problems.
 
 ---
 
 ## What I've shipped
 
-**[DesignAudit](https://github.com/BryanRoubos/designaudit)** — Full website auditor. Paste a URL, get accessibility scores (WCAG), performance scores (Lighthouse), SEO, and AI-powered plain-English fix suggestions, all with a shareable permalink. Built with Next.js, Puppeteer, Lighthouse, axe-core, Gemini, and Supabase.
+**[DesignAudit](https://github.com/BryanRoubos/designaudit)** — Full-stack website auditor. Paste a URL, get WCAG accessibility scores, Lighthouse performance scores, SEO analysis, and AI-powered fix suggestions — all with a shareable permalink. Built with Next.js 16, Puppeteer, axe-core, Lighthouse, Google Gemini, and Supabase.
 
-**[Groupvibe](https://groupvibe.com)** — Board member at a social platform that scaled to 39,500+ users across 40 cities in 15 countries.
+**[Groupvibe](https://groupvibe.com)** — Board member at a social platform that grew to 39,500+ users across 40 cities in 15 countries. Involved in product strategy, international expansion, and scaling challenges.
 
 ---
 
@@ -16,19 +16,19 @@ Software engineering student at HU Utrecht. I build production web apps and I'm 
 
 ```
 Frontend:   Next.js · React · TypeScript · Tailwind CSS
-Backend:    Node.js · Sanity CMS · REST APIs
-Database:   Supabase · Postgres
-Tools:      Git · Vercel · Puppeteer · Lighthouse
-Learning:   Python · NumPy · Pandas · Scikit-learn
+Backend:    Node.js · REST APIs · Supabase
+Tooling:    Puppeteer · Lighthouse · axe-core · Vercel · Git
+Learning:   Python · NumPy · Pandas · Scikit-learn · ML fundamentals
 ```
 
 ---
 
 ## Currently
 
-- Studying Software Engineering at HU Utrecht (GPA 8.2 on propedeuse)
-- Building projects at the intersection of web engineering and AI
-- Working through ML fundamentals — linear algebra, probability, core algorithms
+- Studying Software Engineering at HU Utrecht (propedeuse GPA: 8.2/10)
+- Building [WebSneller](https://websneller.nl) — a web audit and fix service powered by DesignAudit
+- Working through ML fundamentals: linear algebra, probability, core algorithms
+- Looking for a **software engineering internship starting February 2026**
 
 ---
 
