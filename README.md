@@ -13,6 +13,8 @@ Full-stack website auditor — paste a URL, get WCAG accessibility scores, Light
 
 `Next.js` `TypeScript` `Puppeteer` `axe-core` `Lighthouse` `Google Gemini` `Supabase`
 
+https://designaudit-production.up.railway.app/
+
 ---
 
 ## Stack
