@@ -31,7 +31,7 @@ Learning    Python · NumPy · Pandas · Scikit-learn · ML fundamentals
 - 📚 Studying Software Engineering at HU Utrecht (propedeuse GPA: 8.2/10)
 - 🔭 Building new projects to deepen backend and ML skills
 - 🌱 Working through ML fundamentals: linear algebra, probability, core algorithms
-- 💼 Looking for a **software engineering internship** starting early 2026
+- 💼 Looking for a **software engineering internship** starting September 2026
 
 ---
 
