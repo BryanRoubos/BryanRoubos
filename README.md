@@ -2,7 +2,7 @@
 
 **Software Engineering student** at HU Utrecht · Building full-stack web apps · Learning applied ML
 
-I learn best by shipping things. Currently focused on tooling that sits at the intersection of web performance, accessibility, and AI.
+I learn best by shipping things. Currently focused on tooling that analyzes and visualize developers’ contributions in Git-based group projects, helping teachers and teaching assistants assess both individual and team performance.
 
 ---
 
