@@ -34,7 +34,6 @@ Learning    Python · NumPy · Pandas · Scikit-learn · ML fundamentals
 
 ## Currently
 - 📚 Studying Software Engineering at HU Utrecht (propedeuse GPA: 8.2/10)
-- 🔭 Building tooling for developer analytics and code quality visualization
 - 🌱 Working through ML fundamentals: linear algebra, probability, core algorithms
 - 💼 Looking for a **software engineering internship** starting September 2026
 
