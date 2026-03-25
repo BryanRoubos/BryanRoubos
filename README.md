@@ -1,7 +1,6 @@
 # Bryan Roubos
 **Software Engineering student** at HU Utrecht · Building full-stack web apps · Learning applied ML
 
----
 
 ## Projects
 
