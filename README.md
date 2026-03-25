@@ -43,4 +43,4 @@ Learning    Python · NumPy · Pandas · Scikit-learn · ML fundamentals
 
 ## Contact
 📍 Netherlands &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/bryanroubos)
-```
+
