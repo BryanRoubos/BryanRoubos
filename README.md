@@ -26,17 +26,12 @@ https://designaudit-production.up.railway.app/
 ```
 Frontend    Next.js · React · TypeScript · Tailwind CSS
 Backend     Node.js · REST APIs · Supabase · PostgreSQL
-Tooling     Puppeteer · Lighthouse · axe-core · GitHub API · Railway · Git
-Learning    Python · NumPy · Pandas · Scikit-learn · ML fundamentals
 ```
 
 ---
 
 ## Currently
 - 📚 Studying Software Engineering at HU Utrecht (propedeuse GPA: 8.2/10)
-- 🌱 Working through ML fundamentals: linear algebra, probability, core algorithms
-- 💼 Looking for a **software engineering internship** starting September 2026
-
 ---
 
 ## Contact
