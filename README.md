@@ -1,39 +1,41 @@
 # Bryan Roubos
-**Software Engineering student** at HU Utrecht · Building full-stack web apps · Learning applied ML
 
+I'm a Software Engineering student at HU Utrecht. Most of my experience so far has been in full-stack development, but I'm looking to move deeper into AI and the systems behind it.
 
-## Projects
+I'm especially interested in open-source software, local AI models, and figuring out how the different pieces fit together. I want to understand not just how to use AI, but how models run, how they connect to tools, and how to build systems around them that are useful and reliable.
 
-### [GradeGit](https://github.com/BryanRoubos/gradegit)
-GitHub repository analytics dashboard - paste a repo URL, get a full breakdown of every contributor's work by type (code, tests, config, UI, docs), color-coded contribution matrices, file ownership percentages, and commit timeline. Built for teachers who need more than commit counts.
+## What I'm exploring
 
-`Next.js` `TypeScript` `NextAuth.js` `Recharts` `GitHub REST API` `Tailwind CSS`
+- **AI agents:** How models can use tools and interact with computers to carry out tasks.
+- **Local models:** Running models on hardware I control and learning how they work.
+- **AI systems and infrastructure:** How models, software, hardware, and networks fit together, and how to make those systems reliable.
+- **Open source:** Learning from existing projects, exploring how they're built, and contributing where I can.
 
-https://gradegit-production.up.railway.app/
+## Current project
 
----
+### [Remote AI Agent](https://github.com/BryanRoubos/Remote-AI-Agent)
 
-### [DesignAudit](https://github.com/BryanRoubos/designaudit)
-Full-stack website auditor - paste a URL, get WCAG accessibility scores, Lighthouse performance metrics, SEO analysis, and AI-powered fix suggestions. Generates a shareable permalink per report.
+I'm exploring an open-source assistant that could connect to my computer and help me work on projects remotely using natural language.
 
-`Next.js` `TypeScript` `Puppeteer` `axe-core` `Lighthouse` `Google Gemini` `Supabase`
+It's still in the early stages. I'm using the project to learn more about connecting systems, computer interaction, and eventually integrating AI models and tools.
 
-https://designaudit-production.up.railway.app/
+## Previous projects
 
----
+These projects came from my experience learning and building full-stack applications:
 
-## Stack
-```
-Frontend    Next.js · React · TypeScript · Tailwind CSS
-Backend     Node.js · REST APIs · Supabase · PostgreSQL
-```
+- [GradeGit](https://github.com/BryanRoubos/gradegit) — A tool for exploring GitHub contributions and project activity.
+- [DesignAudit](https://github.com/BryanRoubos/designaudit) — A website auditor for accessibility, performance, and SEO, with AI-powered suggestions.
 
----
+## Education
 
-## Currently
-- 📚 Studying Software Engineering at HU Utrecht (propedeuse GPA: 8.2/10)
----
+Software Engineering at HU Utrecht.
+
+Propedeuse GPA: 8.2/10.
+
+## Technologies
+
+I've worked with TypeScript, JavaScript, React, Next.js, Node.js, REST APIs, PostgreSQL, and Supabase. I'm continuing to build on that foundation while learning more about Python, Linux, networking, and AI systems.
 
 ## Contact
-📍 Netherlands &nbsp;·&nbsp; [LinkedIn](https://linkedin.com/in/bryanroubos)
 
+[LinkedIn](https://linkedin.com/in/bryanroubos) · Netherlands
