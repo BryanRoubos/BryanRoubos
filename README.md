@@ -11,6 +11,14 @@ I'm especially interested in open-source software, local AI models, and figuring
 - **AI systems and infrastructure:** How models, software, hardware, and networks fit together, and how to make those systems reliable.
 - **Open source:** Learning from existing projects, exploring how they're built, and contributing where I can.
 
+## AI infrastructure
+
+I'm working on an AI cluster project at HU Utrecht, helping build a platform where students and research groups can run and train AI models.
+
+My work includes developing the Go backend, helping set up the university's servers, and connecting the services that make up the platform. There's also a separate dashboard for managing workloads, while Open WebUI provides an interface for interacting with models.
+
+Through this project, I'm learning more about AI infrastructure, Linux, Kubernetes, networking, and how to build systems that run AI workloads.
+
 ## Current project
 
 ### [Remote AI Agent](https://github.com/BryanRoubos/Remote-AI-Agent)
@@ -34,7 +42,7 @@ Propedeuse GPA: 8.2/10.
 
 ## Technologies
 
-I've worked with TypeScript, JavaScript, React, Next.js, Node.js, REST APIs, PostgreSQL, and Supabase. I'm continuing to build on that foundation while learning more about Python, Linux, networking, and AI systems.
+I've worked with TypeScript, JavaScript, React, Next.js, Node.js, Go, REST APIs, PostgreSQL, and Supabase. I'm continuing to build on that foundation while learning more about Python, Linux, Kubernetes, networking, and AI systems.
 
 ## Contact
 
