@@ -4,7 +4,7 @@ I'm a Software Engineering student at HU Utrecht, building toward a long-term go
 
 I'm interested in how complete AI systems are designed: how models, software, tools, infrastructure, and networks fit together, and how to make those systems useful, reliable, and secure.
 
-My current experience combines backend development with AI infrastructure. Alongside that, I'm exploring AI-agent systems through personal projects. I'm learning by building, testing ideas, and understanding the trade-offs behind technical decisions—not by assuming I've already mastered every part of the stack.
+My current experience combines backend development with AI infrastructure. Alongside that, I'm exploring AI-agent systems through personal projects. I'm learning by building, testing ideas, and understanding the trade-offs behind technical decisions, not by assuming I've already mastered every part of the stack.
 
 ## What I'm working toward
 
