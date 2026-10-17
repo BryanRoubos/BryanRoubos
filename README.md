@@ -1,56 +1,39 @@
 # Bryan Roubos
 
-I'm a Software Engineering student at HU Utrecht, building toward a long-term goal of becoming an **AI Systems Architect**.
+**Software Engineering student at HU University of Applied Sciences Utrecht**
 
-I'm interested in how complete AI systems are designed: how models, software, tools, infrastructure, and networks fit together, and how to make those systems useful, reliable, and secure.
+I'm interested in backend development, AI engineering, and the infrastructure that makes applications reliable. I enjoy understanding how software works behind the scenes and learning by building real projects.
 
-My current experience combines backend development with AI infrastructure. Alongside that, I'm exploring AI-agent systems through personal projects. I'm learning by building, testing ideas, and understanding the trade-offs behind technical decisions, not by assuming I've already mastered every part of the stack.
+### Currently learning
 
-## What I'm working toward
+- **Backend development:** Python, Go, REST APIs, databases, and testing.
+- **AI and machine learning:** Model fundamentals, inference, LLM applications, and evaluation.
+- **Infrastructure:** Linux, Docker, Kubernetes, networking, and CI/CD.
+- **Software engineering:** System design, debugging, security, and maintainable code.
 
-- **AI infrastructure and model serving:** Understanding how AI workloads run, how services connect, and how computing resources are managed.
-- **AI agents and orchestration:** Exploring how models could use tools, interact with computers, and work through tasks with appropriate human oversight.
-- **Reliable AI systems:** Learning about evaluation, monitoring, failure handling, security, and the trade-offs involved in system design.
-- **Data and machine learning:** Building a deeper understanding of the models and data foundations behind AI applications.
-- **Open source:** Learning from existing projects, exploring how they're built, and contributing where I can.
+I'm developing these skills through my studies, team projects, and independent learning.
 
-These are areas I'm developing toward, not a list of technologies or capabilities I've already mastered.
+### Experience
 
-## AI infrastructure
+At **Tandem-IT**, I'm working with a team on an AI infrastructure project, learning about backend services, Kubernetes, model serving, and integrating systems.
 
-I'm working on an AI cluster project at HU Utrecht, helping build a platform where students and research groups can run and train AI models.
+I previously worked on a **Digital Product Passport** prototype during a digiGO.nu hackathon, focusing on backend development and verifiable data.
 
-My work includes developing the Go backend, helping set up the university's servers, and connecting the services that make up the platform. A separate dashboard manages workloads, while Open WebUI provides an interface for interacting with models.
+### Projects
 
-Through this project, I'm learning more about AI infrastructure, Linux, Kubernetes, networking, and the engineering involved in running AI workloads.
+- **[GradeGit](https://github.com/BryanRoubos/gradegit)** — GitHub contribution and repository analytics.
+- **[DesignAudit](https://github.com/BryanRoubos/designaudit)** — Website accessibility, performance, and SEO auditing.
 
-## Current project
+### Technologies
 
-### [Remote AI Agent](https://github.com/BryanRoubos/Remote-AI-Agent)
+**Worked with:** TypeScript, JavaScript, React, Next.js, Node.js, Go, REST APIs, PostgreSQL, and Supabase.
 
-Remote AI Agent is an early-stage open-source project exploring how to work with a personal computer remotely, with AI assistance as a longer-term goal.
+**Currently learning:** Python, Docker, Kubernetes, Linux, networking, and AI/ML engineering.
 
-The first milestone is a phone-friendly web interface that can securely connect to a computer I control and display a requested desktop screenshot. Once that foundation works, I want to explore how AI models and tools could support computer interaction and software-development workflows.
+### Education
 
-The project is a way to learn about system integration, agent architecture, security, local-first approaches, and human oversight. These future AI capabilities are goals to explore, not features that are already implemented.
+**HU University of Applied Sciences Utrecht** — HBO-ICT / Software Engineering
 
-## Previous projects
+### Connect
 
-These projects grew out of my experience building full-stack applications:
-
-- [GradeGit](https://github.com/BryanRoubos/gradegit) — A dashboard for exploring GitHub contributions and project activity.
-- [DesignAudit](https://github.com/BryanRoubos/designaudit) — A website auditor for accessibility, performance, and SEO, with AI-powered suggestions.
-
-## Education
-
-**Software Engineering** at HU Utrecht.
-
-Propedeuse GPA: **8.2/10**.
-
-## Technologies
-
-I've worked with TypeScript, JavaScript, React, Next.js, Node.js, Go, REST APIs, PostgreSQL, and Supabase. I'm continuing to build on that foundation while learning more about Python, Linux, Kubernetes, networking, machine learning, and AI systems.
-
-## Contact
-
-[LinkedIn](https://linkedin.com/in/bryanroubos) · Netherlands
+[LinkedIn](https://www.linkedin.com/in/bryan-roubos/) · Netherlands
