@@ -1,34 +1,34 @@
 # Bryan Roubos
 
-**Software Engineering student at HU University of Applied Sciences Utrecht**
+**Software Engineering Student @ HU Utrecht | Aspiring AI Engineer | Backend & AI Infrastructure**
 
-I'm interested in backend development, AI engineering, and the infrastructure that makes applications reliable. I enjoy understanding how software works behind the scenes and learning by building real projects.
-
-### Currently learning
-
-- **Backend development:** Python, Go, REST APIs, databases, and testing.
-- **AI and machine learning:** Model fundamentals, inference, LLM applications, and evaluation.
-- **Infrastructure:** Linux, Docker, Kubernetes, networking, and CI/CD.
-- **Software engineering:** System design, debugging, security, and maintainable code.
-
-I'm developing these skills through my studies, team projects, and independent learning.
+I'm a Software Engineering student at HU University of Applied Sciences Utrecht, working toward a career in AI Engineering. I'm particularly interested in backend development, AI infrastructure, and how AI systems are designed, built, and maintained.
 
 ### Experience
 
-At **Tandem-IT**, I'm working with a team on an AI infrastructure project, learning about backend services, Kubernetes, model serving, and integrating systems.
+At **Tandem-IT**, my team and I are building **HU Utrecht's AI Infrastructure Cluster**, a platform designed to enable students and researchers to **train, run, and use AI models on GPU infrastructure**. My work spans Go backend development, service integration, and helping set up the university's servers to support AI workloads.
 
-I previously worked on a **Digital Product Passport** prototype during a digiGO.nu hackathon, focusing on backend development and verifiable data.
+I also worked as a backend developer on a **Digital Product Passport** prototype during the digiGO.nu hackathon, focusing on APIs and verifiable data.
+
+### Currently learning
+
+- **AI engineering:** Machine learning fundamentals, inference, LLM applications, model serving, and evaluation.
+- **Backend engineering:** Python, Go, APIs, databases, and testing.
+- **Infrastructure:** Linux, Docker, Kubernetes, networking, and CI/CD.
+- **Software design:** Debugging, security, reliability, and system design.
+
+I'm developing these skills through my studies, hands-on projects, and team-based engineering work.
 
 ### Projects
 
-- **[GradeGit](https://github.com/BryanRoubos/gradegit)** — GitHub contribution and repository analytics.
-- **[DesignAudit](https://github.com/BryanRoubos/designaudit)** — Website accessibility, performance, and SEO auditing.
+- **[GradeGit](https://github.com/BryanRoubos/gradegit)** — GitHub repository and contributor analytics dashboard.
+- **[DesignAudit](https://github.com/BryanRoubos/designaudit)** — Website accessibility, performance, and SEO auditing with AI-assisted suggestions.
 
 ### Technologies
 
 **Worked with:** TypeScript, JavaScript, React, Next.js, Node.js, Go, REST APIs, PostgreSQL, and Supabase.
 
-**Currently learning:** Python, Docker, Kubernetes, Linux, networking, and AI/ML engineering.
+**Currently developing:** Python, Docker, Kubernetes, Linux, networking, and AI/ML engineering.
 
 ### Education
 
