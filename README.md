@@ -1,39 +1,43 @@
 # Bryan Roubos
 
-**Software Engineering Student @ HU Utrecht | Aspiring AI Engineer | Backend & AI Infrastructure**
+Software Engineering Student @ HU Utrecht
+Aspiring Machine Learning Engineer
 
-I'm a Software Engineering student at HU University of Applied Sciences Utrecht, working toward a career in AI Engineering. I'm particularly interested in backend development, AI infrastructure, and how AI systems are designed, built, and maintained.
+## About Me
 
-### Experience
+I'm a Software Engineering student at HU University
+of Applied Sciences Utrecht, currently transitioning
+toward Machine Learning and AI Engineering.
 
-At **Tandem-IT**, my team and I are building **HU Utrecht's AI Infrastructure Cluster**, a platform designed to enable students and researchers to **train, run, and use AI models on GPU infrastructure**. My work spans Go backend development, service integration, and helping set up the university's servers to support AI workloads.
+I'm focused on strengthening my programming
+fundamentals, understanding machine learning
+algorithms, and building practical projects
+from the ground up.
 
-I also worked as a backend developer on a **Digital Product Passport** prototype during the digiGO.nu hackathon, focusing on APIs and verifiable data.
+## Current Experience
 
-### Currently learning
+At Tandem-IT, I'm contributing to HU Utrecht's
+AI Infrastructure Cluster, working with backend
+development, server infrastructure, and systems
+supporting AI workloads.
 
-- **AI engineering:** Machine learning fundamentals, inference, LLM applications, model serving, and evaluation.
-- **Backend engineering:** Python, Go, APIs, databases, and testing.
-- **Infrastructure:** Linux, Docker, Kubernetes, networking, and CI/CD.
-- **Software design:** Debugging, security, reliability, and system design.
+## Currently Learning
 
-I'm developing these skills through my studies, hands-on projects, and team-based engineering work.
+- Python & Software Engineering
+- Machine Learning Fundamentals
+- Data Structures & Algorithms
+- Model Training & Evaluation
+- AI Infrastructure & Deployment
 
-### Projects
+## My Goal
 
-- **[GradeGit](https://github.com/BryanRoubos/gradegit)** — GitHub repository and contributor analytics dashboard.
-- **[DesignAudit](https://github.com/BryanRoubos/designaudit)** — Website accessibility, performance, and SEO auditing with AI-assisted suggestions.
+To become a capable Machine Learning Engineer
+through consistent learning, experimentation,
+and building real-world projects.
 
-### Technologies
+I'll document my progress and publish projects
+here as I develop my skills.
 
-**Worked with:** TypeScript, JavaScript, React, Next.js, Node.js, Go, REST APIs, PostgreSQL, and Supabase.
+## Connect
 
-**Currently developing:** Python, Docker, Kubernetes, Linux, networking, and AI/ML engineering.
-
-### Education
-
-**HU University of Applied Sciences Utrecht** — HBO-ICT / Software Engineering
-
-### Connect
-
-[LinkedIn](https://www.linkedin.com/in/bryan-roubos/) · Netherlands
+[LinkedIn](https://www.linkedin.com/in/bryan-roubos/)
