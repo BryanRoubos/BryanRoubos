@@ -16,10 +16,9 @@ from the ground up.
 
 ## Current Experience
 
-At Tandem-IT, I'm contributing to HU Utrecht's
-AI Infrastructure Cluster, working with backend
-development, server infrastructure, and systems
-supporting AI workloads.
+At Tandem-IT, I'm contributing to HU Utrecht's AI Infrastructure Cluster, a platform intended to support students and researchers running and training AI models on GPU infrastructure.
+
+My focus is on backend development while developing my knowledge of server infrastructure, networking, containerization, Kubernetes, and AI model deployment.
 
 ## Currently Learning
 
