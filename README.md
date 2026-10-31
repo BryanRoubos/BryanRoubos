@@ -1,42 +1,24 @@
 # Bryan Roubos
 
-Software Engineering Student @ HU Utrecht
-Aspiring Machine Learning Engineer
+Software Engineering student at HU Utrecht, working toward machine learning engineering.
 
-## About Me
+I can't leave a question alone: how does it work, and why? I'm learning machine
+learning from the foundations (Python, mathematics, statistics, algorithms) because I want
+to understand how models are trained, evaluated and deployed, not only call one.
 
-I'm a Software Engineering student at HU University
-of Applied Sciences Utrecht, currently transitioning
-toward Machine Learning and AI Engineering.
+## Now
+- Backend intern at **Tandem-IT**, contributing to HU Utrecht's AI Infrastructure
+  Cluster: GPU infrastructure for training AI models.
+- Building **Fantasy World AI Lab**: a small simulated world, datasets built from it,
+  and models tested against honest baselines.
 
-I'm focused on strengthening my programming
-fundamentals, understanding machine learning
-algorithms, and building practical projects
-from the ground up.
+## Interested in
+Applied machine learning, anomaly detection, and the engineering behind intelligent systems.
 
-## Current Experience
+## Looking for
+Machine learning internships and international study opportunities.
 
-At Tandem-IT, I'm contributing to HU Utrecht's AI Infrastructure Cluster, a platform intended to support students and researchers running and training AI models on GPU infrastructure.
+## Outside code
+I write and build a fantasy world, Where the Light Falls.
 
-My focus is on backend development while developing my knowledge of server infrastructure, networking, containerization, Kubernetes, and AI model deployment.
-
-## Currently Learning
-
-- Python & Software Engineering
-- Machine Learning Fundamentals
-- Data Structures & Algorithms
-- Model Training & Evaluation
-- AI Infrastructure & Deployment
-
-## My Goal
-
-To become a capable Machine Learning Engineer
-through consistent learning, experimentation,
-and building real-world projects.
-
-I'll document my progress and publish projects
-here as I develop my skills.
-
-## Connect
-
-[LinkedIn](https://www.linkedin.com/in/bryan-roubos/)
+[Website](https://bryanroubos.com) · [LinkedIn](https://www.linkedin.com/in/bryan-roubos/) · roubos@proton.me
