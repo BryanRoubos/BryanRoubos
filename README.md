@@ -1,24 +1,25 @@
 # Bryan Roubos
 
-Software Engineering student at HU Utrecht, working toward machine learning engineering.
+Software Engineering student at HU Utrecht, focused on backend development and AI infrastructure, with the ambition to grow into AI engineering.
 
-I can't leave a question alone: how does it work, and why? I'm learning machine
-learning from the foundations (Python, mathematics, statistics, algorithms) because I want
-to understand how models are trained, evaluated and deployed, not only call one.
+I can't leave a question alone: how does it work, and why? I'm interested in understanding how software systems work beneath the surface, from backend architecture and infrastructure to deploying and integrating AI models.
 
 ## Now
-- Backend intern at **Tandem-IT**, contributing to HU Utrecht's AI Infrastructure
-  Cluster: GPU infrastructure for training AI models.
-- Building **Fantasy World AI Lab**: a small simulated world, datasets built from it,
-  and models tested against honest baselines.
+
+- Backend intern at **Tandem-IT**, contributing to HU Utrecht's AI Infrastructure Cluster.
+- Developing backend functionality with **Go, Kubernetes, and WebSockets**, including a Kubernetes web terminal.
+- Researching and designing an **LLM chat interface**, exploring API integration and backend architecture.
 
 ## Interested in
-Applied machine learning, anomaly detection, and the engineering behind intelligent systems.
+
+Backend engineering, AI infrastructure, distributed systems, and applied AI.
 
 ## Looking for
-Machine learning internships and international study opportunities.
+
+Backend and AI engineering internships, technical projects, and international opportunities.
 
 ## Outside code
-I write and build a fantasy world, Where the Light Falls.
+
+I write and develop my own fantasy universe, *Where the Light Falls*.
 
 [Website](https://bryanroubos.com) · [LinkedIn](https://www.linkedin.com/in/bryan-roubos/) · roubos@proton.me
