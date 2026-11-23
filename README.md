@@ -8,6 +8,6 @@ I'm interested in understanding software systems beneath the surface, from backe
 
 My background includes backend development, software architecture, and applied AI projects.
 
-Outside engineering, I write and develop my own fantasy universe, *Where the Light Falls*.
+Outside engineering, I write my own fantasy universe, *Where the Light Falls*. 
 
 [Website](https://bryanroubos.com/) · [LinkedIn](https://www.linkedin.com/in/bryan-roubos/) · [Email](mailto:roubos@proton.me)
